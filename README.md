@@ -7,6 +7,20 @@
 
 - 📫 How to reach me **samuelmartineau.com**
 
+
+<h3>My last articles</h3>
+<ul>
+
+<li>
+
+[Should we use Lexical to edit our legal graph?](https://medium.com/doctrine/should-we-use-lexical-to-edit-our-legal-graph-61aa9cfab096)
+</li>
+<li>
+
+[Why did we move to Next.js?](https://medium.com/doctrine/why-did-we-move-to-next-js-266141bcadc0)
+
+</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marti_sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marti_sami" height="30" width="40" /></a>
