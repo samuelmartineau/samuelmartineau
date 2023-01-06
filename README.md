@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
+<h1 align="center">Hi 👋, I'm Samuel Martineau</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on [Doctrine.fr](https://www.doctrine.fr/)
