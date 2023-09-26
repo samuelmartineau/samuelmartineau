@@ -10,7 +10,10 @@
 
 <h3>My last articles</h3>
 <ul>
+<li>
 
+[How Doctrine leverages Puppeteer to export content to PDF](https://medium.com/doctrine/how-doctrine-leverages-puppeteer-to-export-content-to-pdf-6b964b89ba82)
+</li>
 <li>
 
 [Should we use Lexical to edit our legal graph?](https://medium.com/doctrine/should-we-use-lexical-to-edit-our-legal-graph-61aa9cfab096)
