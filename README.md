@@ -12,6 +12,10 @@
 <ul>
 <li>
 
+[How we use git as a source of insights for our migrations](https://medium.com/doctrine/how-we-use-git-as-a-source-of-insights-for-our-migrations-64dd19e5d3f6)
+</li>
+<li>
+
 [How Doctrine leverages Puppeteer to export content to PDF](https://medium.com/doctrine/how-doctrine-leverages-puppeteer-to-export-content-to-pdf-6b964b89ba82)
 </li>
 <li>
